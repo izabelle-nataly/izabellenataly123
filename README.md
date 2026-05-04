@@ -27,3 +27,12 @@
 </picture>
 
 ###
+
+<div align="center">
+  <h2>ℹ️ Sobre mim</h2>
+  <p><strong>Nome:</strong> Izabelle Nataly</p>
+  <p><strong>Curso:</strong> [Digite seu curso aqui]</p>
+  <p><strong>Componente ou conteúdo que mais gostei no curso:</strong> [Digite aqui]</p>
+  <p><strong>Hobby:</strong> [Digite aqui]</p>
+  <p><strong>Linguagens que vamos trabalhar nesse ano:</strong> Python, JavaScript, HTML5 e CSS</p>
+</div>
